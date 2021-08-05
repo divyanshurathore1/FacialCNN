@@ -1,2 +1,2 @@
-# FacialCNN
-To apply Convolutional neural networks (CNN) for facial expression recognition.
+# Used car price prediction
+Trained a model to predict price of used cars.
